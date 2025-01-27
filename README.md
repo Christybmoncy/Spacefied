@@ -1,5 +1,5 @@
-Spacefied
-Spacefied is a dynamic and engaging web application that brings the wonders of space exploration and discovery to users. Built with HTML, CSS, and JavaScript, this project offers an interactive experience for space enthusiasts.
+SPACEIFIED
+Spaceified is a dynamic and engaging web application that brings the wonders of space exploration and discovery to users. Built with HTML, CSS, and JavaScript, this project offers an interactive experience for space enthusiasts.
 
 Features
 Interactive Design: A visually captivating interface designed with CSS animations and transitions.
@@ -22,7 +22,7 @@ git clone https://github.com/yourusername/spacefied.git
 Navigate to the project folder:
 bash
 Copy code
-cd spacefied
+cd spaceified
 Open index.html in your browser to launch the application.
 Usage
 Open the application in your browser.
