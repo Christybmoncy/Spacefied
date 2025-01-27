@@ -18,7 +18,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/spacefied.git
+git clone https://github.com/yourusername/spaceified.git
 Navigate to the project folder:
 bash
 Copy code
